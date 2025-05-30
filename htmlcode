@@ -1,1 +1,13 @@
-<div class="klaviyo-form-Rftmkq"></div>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Klaviyo Form</title>
+  </head>
+  <body>
+    <!-- Start Klaviyo Form Embed -->
+    <div class="klaviyo-form-Rftmkq"></div>
+    <script type="text/javascript" src="https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=YOUR_COMPANY_ID"></script>
+    <!-- End Klaviyo Form Embed -->
+  </body>
+</html>
